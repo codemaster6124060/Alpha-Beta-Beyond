@@ -1,0 +1,10 @@
+# Alpha-Beta-Beyond
+Alpha, beta, and beyond are terms used in finance to describe different measures of investment performance. Alpha refers to the excess return earned by an investment compared to its benchmark index. It is a measure of the investment manager's ability to generate returns above and beyond what the market would provide. Alpha is typically calculated using a regression analysis that compares the investment's returns to those of its benchmark index.
+
+Beta, on the other hand, is a measure of an investment's volatility relative to its benchmark index. It indicates how sensitive the investment's returns are to changes in the market. A beta of 1.0 means that the investment moves in lockstep with the market, while a beta greater than 1.0 indicates that the investment is more volatile than the market, and a beta less than 1.0 indicates that the investment is less volatile than the market.
+
+Beyond alpha and beta, there are other measures of investment performance, including the Sharpe ratio, the Treynor ratio, and the information ratio. The Sharpe ratio measures the excess return earned by an investment relative to its level of risk, while the Treynor ratio measures the excess return earned by an investment relative to its beta. The information ratio measures the investment manager's ability to generate returns above and beyond what would be expected based on the level of risk taken.
+
+In addition to these measures, there are also various quantitative and qualitative factors that investors may consider when evaluating an investment, including the investment's historical performance, its fees and expenses, the quality of its management team, and its overall fit within the investor's portfolio.
+
+Ultimately, the goal of any investment strategy is to generate positive returns while managing risk appropriately. Alpha, beta, and other measures of investment performance can provide valuable insights into how an investment is performing relative to its benchmark and to other investments, but they should be used in conjunction with other factors and should not be the sole basis for investment decisions.
